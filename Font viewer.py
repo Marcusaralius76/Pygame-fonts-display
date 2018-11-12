@@ -11,7 +11,7 @@ WHITE = (255, 255, 255)
 size = (500, 200)
 screen = pygame.display.set_mode(size)
 
-pygame.display.set_caption('sghdgfh')
+pygame.display.set_caption('Pygame Font Viewer')
 
 # Loop until the user clicks the close button.
 done = False
